@@ -1,0 +1,6 @@
+Tue, 19 Feb 2013 05:03:31 +0100
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+	values ('6', 'test', 'test', 'test')' at line 1#0 C:\Users\Matelau\SkyDrive\workspace\cs4540\ps5\application\db.php(43): PDOStatement->execute()
+#1 C:\Users\Matelau\SkyDrive\workspace\cs4540\ps5\archive.php(14): registerResume('sss')
+#2 {main}
+
